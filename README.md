@@ -1,2 +1,2 @@
-# donn-es-de-danse
+# Données de danse
 Répertoire de données reportées par des personnes qui font de la danse
